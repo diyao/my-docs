@@ -55,6 +55,9 @@ With more than 150 million registered users and a monthly of 40 million active u
 -------
 **来自一个粗人的摄影**
 
+工作位
+![大楼内部](https://raw.githubusercontent.com/roudao/same-test/master/p3.jpg)
+
 某天的下午茶
 ![某天的下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p3.jpg)
 

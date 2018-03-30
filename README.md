@@ -32,8 +32,8 @@ With more than 150 million registered users and a monthly of 40 million active u
 **任职要求**
 - 1，大专及以上学历，拥有扎实计算机基础理论知识。1年以上前端开发经验。
 - 2，**精通**JavaScript（ES5），熟练使用html，css，熟悉ES6特别是Promise、Arrow function。熟练使用H5的新api，如canvas,video,blob,socket等
-- 3，熟练使用vue，react等mv\*框架，可编写前端组件，熟练使用webpack及其周边工具。
-- 4，熟悉web领域的常见安全问题。
+- 3，熟练使用Vue，React，Angular等mv\*框架，了解他们的不同，有深入过其中一种，可编写前端组件，熟练使用webpack及其周边工具。
+- 4，熟悉web领域的常见安全问题，有良好的编码风格，团队规范意识。有主导客户端，服务端一起合作的能力。
 
 **你至少具备其一。表现好加分**
 - 1，有自己折腾的小领域，得出不错的小作品。

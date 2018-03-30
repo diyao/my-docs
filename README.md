@@ -2,7 +2,7 @@
 ------
 **我们！！不卖水果，不卖水果，不卖水果！！**
 
-我们和下面俩的性质是一样的。百果园信息和YY的关系，类似虎牙与YY的关系。
+我们与虎牙，YY性质一致。百果园信息和YY的关系，类似虎牙与YY的关系。
 
 ![虎牙](https://a.msstatic.com/huya/main/img/logo.png)  ![YY直播](http://yyweb.yystatic.com/mobile/images/components/w-head/images/icon-logo-3ce539b97d.png?v=20170916001)
 
@@ -84,5 +84,8 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 16年公司旅游之小东江。
 ![旅游之小东江](https://raw.githubusercontent.com/roudao/same-test/master/p12.jpg)
+
+
+## come on baby, 老夫需要你，我们需要你。 ##
 
 

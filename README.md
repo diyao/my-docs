@@ -40,6 +40,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 - 2，有深入解读过框架源码，孜孜不倦的撰写博客或者帮助他人的行为。
 - 3，擅长一门服务端语言。
 - 4，懂得一些辅助、深入前端的技术、方案。如TypeScript，PWA，chrome扩展，react native，blob音视频等。
+- 5，跑去[百果园github账号](https://github.com/baiguoyuan)，尽可能在项目的issues中提bug。
 
 **简历投递至：bigo-frontend@bigo.sg**
 

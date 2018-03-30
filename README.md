@@ -11,7 +11,7 @@ Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest g
 
 With more than 150 million registered users and a monthly of 40 million active users worldwide, BIGO LIVE is committed to build a leading global social community via live streaming connecting the world.
 
-咱儿能不扯英文不？当然可以啊。简单来说，我们做直播，短视频，语音交友等产品。直播主做海外，短视频、语音交友也做国内。
+咱儿能不扯英文不？当然可以啊。简单来说，我们做直播，短视频，语音交友等产品。直播主做海外，短视频、语音交友亦覆盖国内。
 
 在海外，我们直播处于绝对的霸主级别（[来个新闻](http://itech.ifeng.com/44830685/news.shtml?&back)）。但是为什么是霸主却不够知名呢？因为每次打电话面试，你们一开头就说：“我是你们会员哦！”。soga，但是我不会放水的啊。不对，我们哪有什么会员，你是说卖水果的那个吧。o(╯□╰)o
 
@@ -78,9 +78,9 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 听不懂这俩外国网红在唱啥，[听一个试试](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4)，听着还不错哟。 [再听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
 
-**真以为我不会摄影？**
+**真以为俺不会摄影？**
 
-太小瞧我了，我可是“别人家的男朋友系列”。原图告诉你，王者不修图哦。
+老夫可是“别人家的男朋友系列”。原图告诉你，王者不修图哦。
 
 16年公司旅游之小东江。
 ![旅游之小东江](https://raw.githubusercontent.com/roudao/same-test/master/p12.jpg)

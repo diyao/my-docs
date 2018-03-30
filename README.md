@@ -11,12 +11,14 @@ Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest g
 
 With more than 150 million registered users and a monthly of 40 million active users worldwide, BIGO LIVE is committed to build a leading global social community via live streaming connecting the world.
 
-咱儿能不扯英文不？当然可以啊。找到篇有关我们其中一个产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
+咱儿能不扯英文不？当然可以啊。简单来说，我们做直播，短视频，语音交友等产品。直播主做海外，短视频、语音交友也做国内。
+找到篇有关我们其中一个直播产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
 
 ## 工作环境 ##
 -------
 YY，虎牙什么环境，我们也一样的。
 ![工作环境](https://media.licdn.com/dms/image/C4E09AQFtBl7TiDwaww/company-photo_900_600/0?e=2159024400&v=alpha&t=ZkBbEXmtiwKMk2ICsd-pLGeXsvx3lyVlVAMY7Lionv8)
+![工作环境](https://raw.githubusercontent.com/roudao/same-test/master/p6.jpg)
 
 ## 职位描述 ##
 ------
@@ -47,7 +49,7 @@ YY，虎牙什么环境，我们也一样的。
 - 2，住房补：距离公司3公里内，每月补贴工资的10%，但不超过1000。（广州番禺万达广场，不算偏）
 - 3，电脑补：补贴50%，但不超过3000。
 
-**每周四下午茶**
+**下午茶，旅游，体检，六险一金这些默认的我们也都有**
 
 ## 一些照骗 ##
 -------
@@ -72,7 +74,7 @@ YY，虎牙什么环境，我们也一样的。
 年会把我们平台的网红叫来。他们也是自己国内的网红。
 ![国外网红](https://raw.githubusercontent.com/roudao/same-test/master/p10.jpg)
 
-听不懂这俩外国网红在唱啥，[听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4)，听着还不错。 [再听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
+听不懂这俩外国网红在唱啥，[听一个试试](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4)，听着还不错哟。 [再听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
 
 
 

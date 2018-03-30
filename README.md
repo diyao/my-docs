@@ -76,7 +76,9 @@ With more than 150 million registered users and a monthly of 40 million active u
 听不懂这俩外国网红在唱啥，[听一个试试](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4)，听着还不错哟。 [再听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
 
 **真以为我不会摄影？**
-太小瞧我了，我可是“别人家的男朋友系列”。
+
+太小瞧我了，我可是“别人家的男朋友系列”。原图告诉你，王者不修图哦。
+
 16年公司旅游之小东江。
 ![旅游之小东江](https://raw.githubusercontent.com/roudao/same-test/master/p12.jpg)
 

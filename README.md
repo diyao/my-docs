@@ -12,7 +12,7 @@ Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest g
 With more than 150 million registered users and a monthly of 40 million active users worldwide, BIGO LIVE is committed to build a leading global social community via live streaming connecting the world.
 
 咱儿能不扯英文不？当然可以啊。简单来说，我们做直播，短视频，语音交友等产品。直播主做海外，短视频、语音交友也做国内。
-找到篇有关我们其中一个直播产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
+其中一个直播产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
 
 ## 工作环境 ##
 -------

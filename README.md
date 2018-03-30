@@ -1,8 +1,8 @@
-## 认识我 ##
+## 认识我【百果园信息】 ##
 ------
 **我们！！不卖水果，不卖水果，不卖水果！！**
 
-我们和下面俩的性质是一样的
+我们和下面俩的性质是一样的。百果园信息和YY的关系，类似虎牙与YY的关系。
 
 ![虎牙](https://a.msstatic.com/huya/main/img/logo.png)  ![YY直播](http://yyweb.yystatic.com/mobile/images/components/w-head/images/icon-logo-3ce539b97d.png?v=20170916001)
 
@@ -11,6 +11,7 @@ Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest g
 
 With more than 150 million registered users and a monthly of 40 million active users worldwide, BIGO LIVE is committed to build a leading global social community via live streaming connecting the world.
 
+咱儿能不扯英文不？当然可以啊。找到篇讲我们其中一个产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
 
 ## 工作环境 ##
 -------
@@ -42,6 +43,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 **补贴**
 - 1，餐补：每月600打入工卡中（在公司食堂吃足够了，楼下万达吃凭工卡基本都可以打折）
-- 2，住房补：距离公司3公里内，补贴工资的10%，但不超过100。（广州番禺万达广场，不算偏）
+- 2，住房补：距离公司3公里内，每月补贴工资的10%，但不超过1000。（广州番禺万达广场，不算偏）
+- 3，电脑补：补贴50%，但不超过3000。
 
 

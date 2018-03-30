@@ -53,8 +53,6 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 ## 一些照骗 ##
 -------
-每周四的下午茶，小哥哥们在准备
-![小哥哥们在准备下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p7.jpg)
 
 某天的下午茶
 ![某天的下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p3.jpg)

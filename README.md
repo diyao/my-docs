@@ -32,7 +32,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 - 3，熟练使用vue，react等mv\*框架，可编写前端组件，熟练使用webpack及其周边工具。
 - 4，熟悉web领域的常见安全问题。
 
-**加分项**
+**你至少具备其一。表现好加分**
 - 1，有自己折腾的小领域，得出不错的小作品。
 - 2，有深入解读过框架源码，孜孜不倦的撰写博客或者帮助他人的行为。
 - 3，擅长一门服务端语言。

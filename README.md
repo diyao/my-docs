@@ -11,7 +11,7 @@ Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest g
 
 With more than 150 million registered users and a monthly of 40 million active users worldwide, BIGO LIVE is committed to build a leading global social community via live streaming connecting the world.
 
-咱儿能不扯英文不？当然可以啊。找到篇讲我们其中一个产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
+咱儿能不扯英文不？当然可以啊。找到篇有关我们其中一个产品的[新闻](http://itech.ifeng.com/44830685/news.shtml?&back)。
 
 ## 工作环境 ##
 -------
@@ -51,8 +51,28 @@ YY，虎牙什么环境，我们也一样的。
 
 ## 一些照骗 ##
 -------
+每周四的下午茶，小哥哥们在准备
+! [小哥哥们在准备下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p7.jpg)
 
+某天的下午茶
+! [某天的下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p3.jpg)
 
+超级喜欢这个虾
+! [虾很肥](https://raw.githubusercontent.com/roudao/same-test/master/p1.jpg)
+
+食堂
+! [食堂](https://raw.githubusercontent.com/roudao/same-test/master/p8.jpg)
+
+茶水间，有K歌房，我们自己的一个产品
+! [茶水间](https://raw.githubusercontent.com/roudao/same-test/master/p1.jpg)
+
+好像是中秋节礼物来着
+! [中秋节礼物](https://raw.githubusercontent.com/roudao/same-test/master/p9.jpg)
+
+年会把我们平台的网红叫来。他们也是自己国内的网红。
+! [国外网红](https://raw.githubusercontent.com/roudao/same-test/master/p10.jpg)
+
+听不懂这俩外国网红在唱啥，听着还不错。[听一下](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4) [再听一下](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
 
 
 

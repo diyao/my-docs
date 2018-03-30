@@ -1,5 +1,11 @@
 ## 认识我 ##
 ------
+**我们！！不卖水果，不卖水果，不卖水果！！**
+
+我们和下面俩的性质是一样的
+
+![虎牙](https://a.msstatic.com/huya/main/img/logo.png)  ![YY直播](http://yyweb.yystatic.com/mobile/images/components/w-head/images/icon-logo-3ce539b97d.png?v=20170916001)
+
 [百果园](https://www.linkedin.com/company/bigo-technology-pte.-ltd./) 
 Founded in March 2016 and headquartered in Singapore, BIGO LIVE is the fastest growing social-video platform in the region that provides live streaming facilities for the users. Users around the world use BIGO LIVE to share their interest and moments everywhere, anytime with everyone. 
 
@@ -28,3 +34,14 @@ With more than 150 million registered users and a monthly of 40 million active u
 - 3，懂得一些辅助、深入前端的技术、方案。如TypeScript，PWA，chrome扩展，react native，blob音视频等。
 
 **简历投递至：bigo-frontend@bigo.sg**
+
+## 福利待遇 ##
+-------
+**薪资**
+- 1，达到上述要求的及格线，15k以上。
+
+**补贴**
+- 1，餐补：每月600打入工卡中（在公司食堂吃足够了，楼下万达吃凭工卡基本都可以打折）
+- 2，住房补：距离公司3公里内，补贴工资的10%，但不超过100。（广州番禺万达广场，不算偏）
+
+

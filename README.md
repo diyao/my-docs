@@ -16,7 +16,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 ## 工作环境 ##
 -------
-YY，虎牙什么环境，我们也一样的。
+跟YY，虎牙一起。
 ![工作环境](https://media.licdn.com/dms/image/C4E09AQFtBl7TiDwaww/company-photo_900_600/0?e=2159024400&v=alpha&t=ZkBbEXmtiwKMk2ICsd-pLGeXsvx3lyVlVAMY7Lionv8)
 ![工作环境](https://raw.githubusercontent.com/roudao/same-test/master/p6.jpg)
 

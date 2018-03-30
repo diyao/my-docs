@@ -15,6 +15,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 
 ## 工作环境 ##
 -------
+YY，虎牙什么环境，我们也一样的。
 ![工作环境](https://media.licdn.com/dms/image/C4E09AQFtBl7TiDwaww/company-photo_900_600/0?e=2159024400&v=alpha&t=ZkBbEXmtiwKMk2ICsd-pLGeXsvx3lyVlVAMY7Lionv8)
 
 ## 职位描述 ##
@@ -45,5 +46,13 @@ With more than 150 million registered users and a monthly of 40 million active u
 - 1，餐补：每月600打入工卡中（在公司食堂吃足够了，楼下万达吃凭工卡基本都可以打折）
 - 2，住房补：距离公司3公里内，每月补贴工资的10%，但不超过1000。（广州番禺万达广场，不算偏）
 - 3，电脑补：补贴50%，但不超过3000。
+
+**每周四下午茶**
+
+## 一些照骗 ##
+-------
+
+
+
 
 

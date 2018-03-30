@@ -64,7 +64,7 @@ YY，虎牙什么环境，我们也一样的。
 ![食堂](https://raw.githubusercontent.com/roudao/same-test/master/p8.jpg)
 
 茶水间，有K歌房，我们自己的一个产品
-![茶水间](https://raw.githubusercontent.com/roudao/same-test/master/p1.jpg)
+![茶水间](https://raw.githubusercontent.com/roudao/same-test/master/p5.jpg)
 
 好像是中秋节礼物来着
 ![中秋节礼物](https://raw.githubusercontent.com/roudao/same-test/master/p9.jpg)

@@ -5,7 +5,7 @@
 ------
 **我们！！不卖水果，不卖水果，不卖水果！！**
 
-我们与虎牙，YY性质一致。百果园信息和YY的关系，类似虎牙与YY的关系。
+[YY](http://www.yy.com/)是我们的兄弟公司以及主要投资人，YY的CEO李学凌亦是我们CEO。
 
 ![虎牙](https://a.msstatic.com/huya/main/img/logo.png)  ![YY直播](http://yyweb.yystatic.com/mobile/images/components/w-head/images/icon-logo-3ce539b97d.png?v=20170916001)
 

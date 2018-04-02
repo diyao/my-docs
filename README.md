@@ -21,7 +21,7 @@ With more than 150 million registered users and a monthly of 40 million active u
 ## 工作环境 ##
 -------
 番禺万达，yy.com楼。YY，虎牙一起。
-![工作环境](https://raw.githubusercontent.com/roudao/same-test/master/p6.jpg)
+![工作环境](https://www.bigo.tv/assets/img/zhaopin/p6.jpg)
 
 ## 职位描述 ##
 ------
@@ -61,34 +61,34 @@ With more than 150 million registered users and a monthly of 40 million active u
 **来自一个粗人的摄影**
 
 工作位
-![大楼内部](https://raw.githubusercontent.com/roudao/same-test/master/p13.jpg)
+![大楼内部](https://www.bigo.tv/assets/img/zhaopin/p13.jpg)
 
 某天的下午茶
-![某天的下午茶](https://raw.githubusercontent.com/roudao/same-test/master/p3.jpg)
+![某天的下午茶](https://www.bigo.tv/assets/img/zhaopin/p3.jpg)
 
 超级喜欢这个虾
-![虾很肥](https://raw.githubusercontent.com/roudao/same-test/master/p1.jpg)
+![虾很肥](https://www.bigo.tv/assets/img/zhaopin/p1.jpg)
 
 食堂
-![食堂](https://raw.githubusercontent.com/roudao/same-test/master/p8.jpg)
+![食堂](https://www.bigo.tv/assets/img/zhaopin/p8.jpg)
 
 茶水间，有K歌房，我们自己的一个产品
-![茶水间](https://raw.githubusercontent.com/roudao/same-test/master/p5.jpg)
+![茶水间](https://www.bigo.tv/assets/img/zhaopin/p5.jpg)
 
 好像是中秋节礼物来着
-![中秋节礼物](https://raw.githubusercontent.com/roudao/same-test/master/p9.jpg)
+![中秋节礼物](https://www.bigo.tv/assets/img/zhaopin/p9.jpg)
 
 年会把我们平台的网红叫来。他们也是自己国内的网红。
-![国外网红](https://raw.githubusercontent.com/roudao/same-test/master/p10.jpg)
+![国外网红](https://www.bigo.tv/assets/img/zhaopin/p10.jpg)
 
-听不懂这俩外国网红在唱啥，[听一个试试](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201516.mp4)，听着还不错哟。 [再听一个](https://raw.githubusercontent.com/roudao/same-test/master/WeChat_20180330201528.mp4)
+听不懂这俩外国网红在唱啥，[听一个试试](https://www.bigo.tv/assets/img/zhaopin/WeChat_20180330201516.mp4)，听着还不错哟。 [再听一个](https://www.bigo.tv/assets/img/zhaopin/WeChat_20180330201528.mp4)
 
 **真以为俺不会摄影？**
 
 老夫可是“别人家的男朋友系列”。原图告诉你，王者不修图哦。
 
 16年公司旅游之小东江。
-![旅游之小东江](https://raw.githubusercontent.com/roudao/same-test/master/p12.jpg)
+![旅游之小东江](https://www.bigo.tv/assets/img/zhaopin/p12.jpg)
 
 
 ## come on baby, 老夫需要你，我们需要你。 ##
